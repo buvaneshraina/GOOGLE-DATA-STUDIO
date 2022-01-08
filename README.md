@@ -2,6 +2,8 @@
 
 * this report is used with demo of Google merchandise sample report with a data connector of google analytics
 
+*the url is (https://datastudio.google.com/reporting/9fc7a929-ee0a-4792-8521-f613c8384e5e)
+
 *the report consists of the interactivity report of the cusotmers with the various platforms like web,app,and social media with devices of mobile, desktop,tablet
 
 *in this report i have used time series and transactions chart with the available data for identifying which time the transactions was high and low with which platforms and devices are used
